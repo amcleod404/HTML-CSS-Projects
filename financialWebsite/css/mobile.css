@@ -1,0 +1,85 @@
+.navbar {
+    flex-direction: column;
+    height: 125px;
+    padding: 20px
+}
+ 
+
+.navbar a {
+    padding: 10px 10px;
+    margin: 0 3px
+}
+
+.container-1 {
+    flex-direction: column;
+}
+
+.box {
+    padding: 40px;
+}
+
+.container-2 {
+    height: 70vh;
+}
+
+#contentLeft {
+    display: none;
+}
+
+#contentRight {
+    width: 100%;
+    padding: 3vh 4vh;
+
+}
+
+#gallery-header h3 {
+    font-size: 35px;
+}
+
+#gallery-header p {
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.grid {
+    margin-top: 70px;
+}
+
+.container-4 #right {
+    display: none; 
+}
+
+.container-4 #left {
+    width: 100%;
+    padding: 10vh 40px;
+
+}
+
+#pictures {
+    margin-top: 100px;
+}
+
+
+
+.container-1 .sub #position {
+    display: none;
+
+}
+
+.container-1 .sub p {
+    margin-bottom: 40px;
+}
+
+.container-5 #leftSide {
+    display: none;
+}
+
+.container-5 #rightSide {
+    width: 100%;
+    padding-top: 30px;
+}
+
+
+
+
+

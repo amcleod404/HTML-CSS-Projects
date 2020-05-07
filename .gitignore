@@ -4,3 +4,6 @@
 
 # misc
 .DS_Store
+/financialWebsite/node_modules
+/financialWebsite/package-lock.json
+
